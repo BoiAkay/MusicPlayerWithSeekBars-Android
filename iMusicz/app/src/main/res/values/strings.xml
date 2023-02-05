@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AkayMusicz</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="statusBar">Status Bar</string>
+    <string name="volumeController">Adjust Volume</string>
+</resources>
